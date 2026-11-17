@@ -184,6 +184,7 @@ The app opens at `http://localhost:8501`. Keep `European_Bank.csv` in the same f
 ## 👤 Author
 
 **Kartik Kate**
+
 Contact: `kartikkate1418@gmail.com`
 
 ---
