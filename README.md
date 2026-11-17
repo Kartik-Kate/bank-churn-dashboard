@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard that analyses customer churn across **10,000 retail banking customers** in **France, Germany and Spain**. It shows where churn concentrates, how strongly each customer attribute drives it, and what retention actions follow from it.
 
-🔗 **Live app:** `[<paste your Streamlit Cloud link here>](https://bank-churn-dashboard-muiq5siwkfobmxgd7vwhwk.streamlit.app/)`
+🔗 **Live app:** `https://bank-churn-dashboard-muiq5siwkfobmxgd7vwhwk.streamlit.app/`
 
 ---
 
